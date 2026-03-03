@@ -20,7 +20,7 @@
 
 ### Тестирование
 
-<img width="1722" height="288" alt="Image" src="https://github.com/user-attachments/assets/0d49f5c9-52bd-4d85-b6b0-14040152b564" />
+<img width="1645" height="457" alt="Image" src="https://github.com/user-attachments/assets/10f5886b-e301-4671-b433-a13339103843" />
 
 ## Задание 2
 
@@ -37,3 +37,5 @@
 5)Выводим самую короткую строку
 
 ### Тестирование
+
+<img width="1722" height="288" alt="Image" src="https://github.com/user-attachments/assets/0d49f5c9-52bd-4d85-b6b0-14040152b564" />
